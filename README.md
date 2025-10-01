@@ -21,5 +21,3 @@ It is optimized for **desktop, tablet, and mobile devices**.
 - **CSS3** (Flexbox + Media Queries for responsiveness)
 
 ---
-
-## 📂 Project Structure
